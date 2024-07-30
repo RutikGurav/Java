@@ -1,0 +1,4 @@
+Abstraction : is a process of hiding implememtation details from the users only shows the functionality from user.
+- There are two way to achieve abstraction in java
+1) Abstract class
+2) Interface

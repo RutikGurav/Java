@@ -1,0 +1,3 @@
+Static Keywords:  is mainly used for memory management in java.
+- it can be applied for variable, method, block and nested classes.
+- statc keyword belong to a class than the instance of a class.

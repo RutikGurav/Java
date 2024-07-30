@@ -1,0 +1,14 @@
+Wrapper Class: in java is a mechanism to convert primitive types into object and object to primitive.
+This conversation is known as Autoboxing and unboxing.
+There are eight classess of java.lang package are known as wrapper class in java.
+
+Primitive types                Wrapper classess
+     byte                            BYTE
+     char                            CHARACHER
+     short                           short
+     int                             INTEGER
+     long                            LONG
+     float                           FLOAT
+     double                          DOUBLE
+     boolean                         BOOLEAN
+     
